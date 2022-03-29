@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\git\\TankTest\\Unreal\\Source\\GitTest\\GitTest.Build.cs",
+		"C:\\git\\TankTest\\Unreal\\Source\\GitTest.Target.cs",
+		"C:\\git\\TankTest\\Unreal\\Source\\GitTestEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
